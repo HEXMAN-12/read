@@ -1,128 +1,101 @@
-<!-- Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-landing.vercel.app/api/banner?title=Sohaib%20Ranjha&subtitle=Code.%20Create.%20Dominate.%20Repeat." alt="Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=200&color=FFBF00&center=true&lines=Sohaib+Ranjha;Code.+Create.+Dominate.;Welcome+to+My+Dev+World🌍" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sohaib Ranjha</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Explorer | Tech Visionary</h3>
-
 <p align="center">
-  <a href="https://github.com/sohaibumarranjha1">
-    <img src="https://img.shields.io/github/followers/sohaibumarranjha1?label=Follow&style=social" />
-  </a>
-  <a href="mailto:sohaibumarranjha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sohaibumarranjha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sohaibranjha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://i.postimg.cc/4d0zR9qR/coding-light.gif" width="700" alt="Coding Light Animation" />
 </p>
 
 ---
 
-### 🎯 About Me
+### 💬 Hey there, I'm Sohaib Ranjha 👋
 
-- 🔭 Working on **FitSync Mobile App**
-- 🚀 Exploring **AI Web Apps**, **Edge Computing**, **Next.js 14**
-- 👨‍💻 Portfolio: [sohaibranjha.vercel.app](https://sohaibranjha.vercel.app)
-- 📫 Reach me at **sohaibumarranjha@gmail.com**
-- ⚡ Fun fact: *I write code that even future me struggles to understand.*
+**Full‑Stack Developer • AI Enthusiast • Mobile Innovator**  
+Open source contributor driving impactful projects.
 
 ---
 
-### 🧠 Tech Toolbox
-
+### 🚀 Quick Links
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,cpp,cs,python,mysql,mongodb,sqlite,git,linux,figma,docker,gcp,vscode,androidstudio,flask,php" />
+  <a href="https://github.com/sohaibumarranjha1"><img src="https://img.shields.io/badge/GitHub-sohaibumarranjha1-black?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/sohaibumarranjha"><img src="https://img.shields.io/badge/LinkedIn-sohaibumarranjha-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:sohaibumarranjha@gmail.com"><img src="https://img.shields.io/badge/Email-contact-orange?style=flat&logo=gmail" /></a>
+  <a href="https://sohaibranjha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" /></a>
 </p>
 
 ---
 
-### 🔥 Featured Projects
-
-<div align="center">
-
-| 🔥 Project | 💡 Description | 🚀 Tech Stack |
-|-----------|----------------|---------------|
-| [**FitSync Mobile App**](https://github.com/sohaibumarranjha1/FitSync-Mobile-App) | A fitness tracking app to sync workouts, set goals, and achieve more. | React Native, Firebase, Node.js |
-| [**Voting Portal Online**](https://github.com/sohaibumarranjha1/Voting-portal-online) | An online digital voting system built for web elections. | HTML, JS, Bootstrap |
-| [**My Projects**](https://github.com/sohaibumarranjha1/MY-PROJECTS) | Collection of personal C++ and DSA codebases. | C++, GitHub |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibumarranjha1&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohaibumarranjha1&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibumarranjha1&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,java,cpp,cs,python,mysql,mongodb,sqlite,git,linux,figma,flask,androidstudio,vercel,gcp" />
 </p>
 
 ---
 
-### ⚙️ Wakatime Stats (Live Coding Activity)
+### 🔥 Projects Showcase & Demo GIFs
 
-<!-- Replace YOUR_USERNAME with your actual Wakatime username -->
+| Project | Demo | Tech |
+|--------|------|------|
+| **FitSync Mobile App** | <img src="https://i.postimg.cc/Y9Fg2p3Y/fitsync-demo.gif" alt="FitSync demo" width="200" /> | React Native • Firebase • Node.js |
+| **Voting Portal Online** | <img src="https://i.postimg.cc/pVbSBkBJ/vote.gif" alt="Voting Portal demo" width="200" /> | HTML • JS • Bootstrap |
+| **C++ DSA Projects** | <img src="https://i.postimg.cc/cHq8RTZH/cpp-dsa.gif" alt="C++ DSA demo" width="200" /> | C++ |
+
+---
+
+### 📊 Stats & Visual Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sohaibumarranjha1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaibumarranjha1&show_icons=true&theme=chartreuse-dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohaibumarranjha1&theme=chartreuse-dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibumarranjha1&theme=chartreuse-dark&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🖼️ Dev Contributions & Trophies
+### 🎧 Music | 🎯 Quote | 🐍 Snake Game
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohaibumarranjha1&theme=onestar&margin-w=15&column=7" />
+  <!-- Spotify Widget -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=black&show_offline=false" />
+</p>
+
+<p align="center">
+  <!-- Random Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <!-- Snake Animation -->
+  <img src="https://github.com/sohaibumarranjha1/sohaibumarranjha1/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </p>
 
 ---
 
-### 🌐 Activity Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibumarranjha1&theme=tokyo-night&area=true" />
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-
-<!-- Replace USER_ID -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
-</p>
+### 🔭 Currently Working On
+- A sleek **AI‑powered dashboard** with real‑time analytics
+- **FitSync V2**: enhanced UI, offline mode, cycle tracking
+- Exploring **edge computing with Next.js 14**
 
 ---
 
-### ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Just for Fun: Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://github.com/sohaibumarranjha1/sohaibumarranjha1/blob/output/github-contribution-grid-snake.svg" />
-</p>
+### 🗓️ 2025 Goals
+- Ship a **React Native component library**
+- Launch a **cloud-native SaaS MVP**
+- Contribute to **AI open‑source tooling**
+- Mentor devs in tech communities
 
 ---
 
-### 🎯 2025 Goals
-
-- 📘 Contribute to **open-source AI tools**
-- 📱 Launch my **first SaaS MVP**
-- 💡 Build my **own design system**
-- 🌍 Collaborate with developers worldwide
+### 🛠️ How to Use This README
+1. **Replace** `YOUR_SPOTIFY_UID` with your actual Spotify UID.
+2. **Host** the demo GIFs via GitHub or an image CDN like Postimg.
+3. **Enable** GitHub Actions to regenerate the Snake grid daily.
+4. **Push** `README.md` to your repository and enjoy your live avatar!
 
 ---
 
